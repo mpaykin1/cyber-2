@@ -1,0 +1,16 @@
+{
+  "name": "Cyberpunk City Drive",
+  "short_name": "CyberCity",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff00ff",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/564/564619.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
